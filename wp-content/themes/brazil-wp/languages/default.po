@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: brazil-wp\n"
+"POT-Creation-Date: 2014-06-23 15:28+0330\n"
+"PO-Revision-Date: 2014-06-23 15:28+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: default\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:9
+msgid "404"
+msgstr ""
+
+#: ../404.php:10
+msgid "Page Not Found"
+msgstr ""
+
+#: ../archive.php:10 ../blog-default.php:15
+msgid "Daily Archives"
+msgstr ""
+
+#: ../archive.php:12 ../blog-default.php:17
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../archive.php:14 ../blog-default.php:19
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../archive.php:19 ../blog-default.php:24
+msgid "Tag"
+msgstr ""
+
+#: ../blog-timeline.php:140
+msgid "at"
+msgstr ""
+
+#: ../blog-timeline.php:146 ../single.php:181
+#: ../parts/blogloop-bothsidebar.php:163 ../parts/blogloop-search.php:21
+#: ../parts/blogloop-type2.php:186 ../parts/blogloop.php:167
+msgid "by"
+msgstr ""
+
+#: ../blog-timeline.php:185 ../vc_templates/post_block/_item.php:24
+msgid "No Comments"
+msgstr ""
+
+#: ../blog-timeline.php:185 ../vc_templates/post_block/_item.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: ../blog-timeline.php:185 ../vc_templates/post_block/_item.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:21
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../commentsfunc.php:9
+msgid "Says"
+msgstr ""
+
+#: ../commentsfunc.php:15
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../contact.php:48
+msgid "Contact Information:"
+msgstr ""
+
+#: ../contact.php:50
+msgid "Address"
+msgstr ""
+
+#: ../contact.php:54
+msgid "Phone"
+msgstr ""
+
+#: ../contact.php:59 ../contact.php:81
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:77
+msgid "What's your Name?"
+msgstr ""
+
+#: ../contact.php:78
+msgid "Name"
+msgstr ""
+
+#: ../contact.php:79
+msgid "What's your Email?"
+msgstr ""
+
+#: ../contact.php:82
+msgid "Email Subject?"
+msgstr ""
+
+#: ../contact.php:83
+msgid "Subject ?"
+msgstr ""
+
+#: ../contact.php:85
+msgid "Message to us"
+msgstr ""
+
+#: ../contact.php:87 ../inc/widgets/contactform.php:75
+msgid "Send Message"
+msgstr ""
+
+#: ../functions.php:198
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:200
+msgid "Topbar Menu"
+msgstr ""
+
+#: ../functions.php:201
+msgid "Left-Nav Menu"
+msgstr ""
+
+#: ../functions.php:585
+msgid "Webnus Theme Option"
+msgstr ""
+
+#: ../functions.php:634
+msgid "Gallery Type"
+msgstr ""
+
+#: ../header-404.php:40 ../header-dark.php:46 ../header.php:46
+msgid "Page"
+msgstr ""
+
+#: ../search.php:20
+msgid "Search Results for"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Enter Keywords..."
+msgstr ""
+
+#: ../single.php:190 ../parts/blogloop-bothsidebar.php:166
+#: ../parts/blogloop-search.php:24 ../parts/blogloop-type2.php:189
+#: ../parts/blogloop.php:170
+msgid "in"
+msgstr ""
+
+#: ../single.php:217
+msgid "Next Page"
+msgstr ""
+
+#: ../single.php:218
+msgid "Previous Page"
+msgstr ""
+
+#: ../inc/contactus/contact2.php:19
+msgid "Text could not be empty..."
+msgstr ""
+
+#: ../inc/contactus/contact2.php:20
+msgid "Invalid email address..."
+msgstr ""
+
+#: ../inc/widgets/contactform.php:72
+msgid "Your Name"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:73
+msgid "Your Email Address"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:74
+msgid "Your Message"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:105
+msgid "An error has occoured..."
+msgstr ""
+
+#: ../inc/widgets/woocommerce-header-cart.php:8
+msgid "Woocommerce Header Cart"
+msgstr ""
+
+#: ../inc/widgets/woocommerce-header-cart.php:61
+msgid "No products in the cart."
+msgstr ""
+
+#: ../inc/widgets/woocommerce-header-cart.php:70
+msgid "Cart"
+msgstr ""
+
+#: ../inc/widgets/woocommerce-header-cart.php:72
+msgid "Total"
+msgstr ""
+
+#: ../js/dynjs.php:18
+msgid "Well done!"
+msgstr ""
+
+#: ../js/dynjs.php:18 ../js/dynjs.php:20
+msgid "Your message has been sent."
+msgstr ""
+
+#: ../js/dynjs.php:24
+msgid "Error!"
+msgstr ""
+
+#: ../js/dynjs.php:24
+msgid "Something Wrong"
+msgstr ""
+
+#: ../parts/blogloop-none.php:2
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../parts/header2.php:103
+msgid "Search..."
+msgstr ""
+
+#: ../vc_templates/vc_posts_grid.php:133
+#: ../vc_templates/vc_teaser_grid.php:321
+msgid "All"
+msgstr ""
+
+#: ../vc_templates/vc_posts_grid.php:161
+#: ../vc_templates/vc_posts_slider.php:193
+#: ../vc_templates/vc_teaser_grid.php:333
+msgid "Nothing found."
+msgstr ""
+
+#: ../vc_templates/vc_teaser_grid.php:182
+#: ../vc_templates/post_block/_item.php:44
+msgid "Read more"
+msgstr ""
+
+#: ../vc_templates/post_block/_item.php:44
+msgid "Permalink to"
+msgstr ""

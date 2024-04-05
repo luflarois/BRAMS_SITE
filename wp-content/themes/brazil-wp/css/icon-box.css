@@ -1,0 +1,137 @@
+/*----------------------------------
+
+	Theme Name: Brazil
+	----------------------
+	
+	/* #Icon Boxes
+========================================= */
+
+	
+	/* #Icon Box
+	=========================== */
+	
+	.icon-box, .icon-box1, .icon-box2, .icon-box3, .icon-box4, .icon-box5, .icon-box6, .icon-box7, .icon-box8 { clear:both;}
+	.icon-box { vertical-align: baseline; margin-bottom: 20px; }
+	.icon-box img, .icon-box i { float: left; display: block; vertical-align: text-top; margin: 5px 20px 75px 0;}
+	.icon-box i { font-size: 32px; color: #545c63; float: left; margin-right: 20px; cursor: default; }
+	.icon-box h5, .icon-box h4 { margin-bottom: 5px; line-height: 1.3; font-size:15px;}
+	.icon-box h5 strong, .icon-box h4 strong { letter-spacing:0;}
+	.icon-box p { overflow: hidden; color:#898989;}
+	
+	
+	/* #Icon Box 1
+	=========================== */
+	
+	.icon-box1 {text-align: left; overflow: hidden; margin-bottom: 30px;}
+	.icon-box1 i { width: 92px; height: 92px; text-align: center; display:inline-block; font-size: 32px; color: #f08484; background: #f2f2f2; float: left; padding: 30px; -webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; margin: 8px 30px 80px 0;
+	-webkit-transition: all 0.18s ease; -moz-transition: all 0.18s ease; -ms-transition: all 0.18s ease; -o-transition: all 0.18s ease; transition: all 0.18s ease;}
+	.icon-box1:hover i { background: #ff5d5e; border-color: #ff5d5e;}
+	#wrap .icon-box1:hover i { color: #fff;}
+	.icon-box1 h4 {font-weight: 400; font-size: 17px; color: #282828; margin-bottom: 12px;overflow: hidden}
+	.icon-box1 p {font-weight: 300; font-size: 14px; color: #898989; margin-bottom: 14px;}
+	.icon-box1 a {color: #f08484; font-size: 13px;}
+	.icon-box1 a.magicmore { padding:0;}
+	.icon-box1 a:hover {color: #eb7348;}
+	.icon-box1 a.magicmore:after {display:none}
+
+
+	
+	/* #Icon Box 2
+	=========================== */
+	
+	.icon-box2 { text-align: left; overflow: hidden; margin-bottom: 30px;}
+	.icon-box2 i { width: 68px; height: 68px; text-align: center; display:inline-block; font-size: 32px; color: #444; background: none; float: left; padding: 15px; border:3px solid #444; -webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; margin: 8px 24px 80px 0; -webkit-transition: all 0.18s ease; -moz-transition: all 0.18s ease; -ms-transition: all 0.18s ease; -o-transition: all 0.18s ease; transition: all 0.18s ease;}
+	.icon-box2 h4, .icon-box2 h4 strong { font-weight: 600; font-size: 25px; color: #444; margin-bottom: 4px;overflow: hidden;}
+	.icon-box2 p {font-weight: 400; font-size: 21px; color: #747474; line-height:1.5; margin-bottom: 10px !important;}
+
+
+	
+	
+	/* #Icon Box 3
+	=========================== */
+	
+	.icon-box3 i { font-size: 48px; color: #2e373d; margin-bottom: 10px; display: inline-block; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
+	.icon-box3:hover i { color: #0ab1f0; cursor: default; }
+	.icon-box3 h5, .icon-box3 h4 { margin-bottom: 4px; color: #2e373d; font-size: 16px; letter-spacing: 0.25px; line-height: 1.3; font-size:15px;}
+	.icon-box3 h5 strong, .icon-box3 h4 strong { letter-spacing:0; font-weight:bold; }
+	.icon-box3 p { line-height: 21px; margin-right: 10px; }
+	
+	
+	/* #Icon Box 4
+	=========================== */
+	
+	.icon-box4 { text-align: center; margin-bottom: 20px; }
+	.icon-box4 i { width: 96px; height: 96px; text-align: center; padding: 30px; background: #f2f2f2; border-radius: 50%; margin-bottom: 24px; cursor: default; font-size: 36px; color: #0ab1f0; margin-bottom: 20px; display: inline-block; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
+	.icon-box4 h4{ margin-bottom: 10px; color: #2e373d; font-size: 16px; letter-spacing: 0.25px;  font-weight:400; }
+	.container .icon-box4 p { font-weight: 300;font-size: 14px;color: #898989;margin-bottom: 14px; padding: 0 15px }
+	.icon-box4:hover i { color: #fff !important; box-shadow: inset 0 0 0 50px #ff5d5e; }
+	
+	
+	/* #Icon Box 5
+	=========================== */
+	
+	.icon-box5 p { text-align: left; margin-left: 80px; margin-top: 14px; color: #aaa}
+	.icon-box5 a.magicmore {margin-left:80px}
+	.icon-box5 i { border: 1px solid #eaeaea;background: #fff;border-radius: 100%;margin-right: 10px;cursor: default;display: inline-block;font-size: 28px;float: left;color: #f08484;padding: 20px;margin-right: 10px;margin-top: 10px;-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;-webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out; width: 70px; height: 70px; text-align: center;}
+
+	.icon-box5 h4 { border-bottom: 1px solid #eaeaea; color: #2e373d; font-size: 12px; line-height: 48px; font-weight: bold; letter-spacing:2.5px; text-transform:uppercase; }
+	.icon-box5:hover i { background: #f08484; border-color: #f08484;}
+	#wrap .icon-box5:hover i { color:#fff;}
+	.icon-box5 img { float: left; display: block; vertical-align: text-top; margin: 0 12px 0 0; }
+	.blox .icon-box5 i  {background: transparent}
+	.blox .icon-box5 h4{overflow: auto;display: inline;padding-bottom: 10px;}
+	.blox .icon-box5:hover i {background: #fff; color:#f08484;}
+	
+	
+	/* #Icon Box 6
+	=========================== */
+	
+	.icon-box6 { position: relative; text-align:center; background-color: rgba(255,255,255,0.81); background-color:#fff\9; border: 1px solid #e5e5e5; border-radius: 3px; padding: 36px 20px 28px; text-shadow: 0 0 0; margin: 40px 0 20px; }
+	.icon-box6 * { text-shadow: none; }
+	.icon-box6 i { width: 56px; height: 56px; text-align: center; font-size: 24px; padding: 15px 16px 17px; background: #f08484; color: #fff; position: absolute; top: -30px; left: 50%; margin-left: -27px; border-radius: 30px; cursor: default; }
+	.icon-box6 h4, .blox .icon-box6 h4, .blox.dark .icon-box6 h4 { color: #363636; font-weight: 400; }
+	.container .icon-box6 p, .container .blox .icon-box6 p, .container .blox.dark .icon-box6 p { color: #818181; margin-bottom: 12px; }
+	.icon-box6 a.magicmore {color:#f08484}
+	.icon-box6 a.magicmore:hover {color: #ed7676;}
+	
+	
+	/* #Icon Box 7
+	=========================== */
+	
+	.icon-box7 { padding: 10px 20px; text-align:center;  }
+	.icon-box7 h4, .icon-box7 h4 strong{ font-weight: 600; font-size:29px; margin-bottom: 15px; letter-spacing:1.5px; padding:0 9px; line-height:1.6; }
+	.icon-box7 p { font-size:16px; letter-spacing:0.5px; font-weight:300; color:#636363; line-height:1.5;}
+	.icon-box7 i { display: inline-block; text-align: center; background:none; color:#6b6c77; font-size: 48px; line-height: 1; margin-bottom: 35px; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
+	.icon-box7 a.magicmore { display:inline-block; margin:25px 0 10px; padding:12px 32px 12px 44px; font-size:11px; font-weight:600; text-transform:uppercase; border-radius:40px; letter-spacing:1px; background:#f08484; }
+	#wrap .icon-box7 a.magicmore { color:#fff;}
+	.icon-box7 a.magicmore:hover { background:#e87777;}
+	.icon-box7 a.magicmore:after { content: "\f101"; position:absolute; color: inherit; top: 18px; right: auto; left:24px; font-size: 12px; padding:0; border:none; }
+	.icon-box7 a.magicmore:hover:after { -webkit-animation: magicmore-anim .2s ease .062s both; animation: magicmore-anim .2s ease .062s both;}
+	
+	@-webkit-keyframes magicmore-anim {
+	from {left: -14px; opacity:0;}
+	to {left: 24px; opacity:1;}
+	}
+	@keyframes magicmore-anim{
+	from {left: -14px; opacity:0;}
+	to {left: 24px; opacity:1;}
+	}
+	
+	
+		/* #Icon Box 8
+	=========================== */
+	
+	.icon-box8 {	border: 1px solid rgba(15, 15, 15, 0.2); background-color:rgba(15, 15, 15, 0.1); vertical-align:baseline; text-align:center; border-radius:5px; padding:20px; -webkit-transition: all 0.2s ease-in-out;	transition: all 0.2s ease-in-out; margin-bottom: 10px}
+	.icon-box8:hover {cursor:default; background-color:rgba(240, 240, 240, 0.6);}	
+	.blox.dark .icon-box8:hover {background-color:rgba(15, 15, 15, 0.6);}	
+	.icon-box8 h4 {border-bottom: 1px solid rgba(15, 15, 15, 0.2);font-size: 18px; font-weight: 500; line-height: 20px; padding: 16px 0; text-align: center;}	
+	.icon-box8 p{font-weight: 400;text-align: center;	letter-spacing: 0px;padding: 5px 10px;font-size: 13px}
+	.icon-box8 i {display:block;margin:16px 0;font-size:72px; color:#0ab1f0}
+	.icon-box8 a.magicmore {position:relative; -webkit-transition: all 0.18s ease; -moz-transition: all 0.18s ease; -ms-transition: all 0.18s ease; -o-transition: all 0.18s ease; transition: all 0.18s ease; border: none; display: inline-block; padding: 6px 16px 6px 28px; cursor: pointer;	border: 1px solid transparent; border-radius: 2px; white-space: nowrap; margin-bottom: 20px; color: rgba(15, 15, 15, 0.16); background: rgba(15, 15, 15, 0.2); text-shadow: 0 0 0; text-transform:uppercase; font-size:11px; letter-spacing:2px;}
+	.blox.dark .icon-box8 i {color:#0ab1f0}
+	.blox.dark .icon-box8 a.magicmore{color: rgba(224, 224, 224, 0.1);}
+	.icon-box8:hover a.magicmore{text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);}
+	.blox.dark .icon-box8:hover a.magicmore{color: #fff; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);}
+	.icon-box8 a.magicmore:hover {background: rgba(0, 0, 0, 0.5); color: rgba(240, 240, 240, 0.6)}
+	.icon-box8 a.magicmore:before {position:absolute; font-family: 'FontAwesome'; speak: none; font-style: normal; font-weight: normal; content: "\e3b0"; color:inherit; top:13px; left:14px; font-size:8px; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased;}
+	.icon-box8 a.magicmore:after {display:none}

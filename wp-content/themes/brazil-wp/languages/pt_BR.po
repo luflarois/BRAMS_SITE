@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: brazil-wp\n"
+"POT-Creation-Date: 2014-06-23 15:30+0330\n"
+"PO-Revision-Date: 2014-06-26 13:39+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:9
+msgid "404"
+msgstr "404"
+
+#: ../404.php:10
+msgid "Page Not Found"
+msgstr "Página não encontrada"
+
+#: ../archive.php:10 ../blog-default.php:15
+msgid "Daily Archives"
+msgstr "Daily Archives"
+
+#: ../archive.php:12 ../blog-default.php:17
+msgid "Monthly Archives"
+msgstr "Arquivos Mensais"
+
+#: ../archive.php:14 ../blog-default.php:19
+msgid "Yearly Archives"
+msgstr "Arquivos Anuais"
+
+#: ../archive.php:19 ../blog-default.php:24
+msgid "Tag"
+msgstr "Tag"
+
+#: ../blog-timeline.php:140
+msgid "at"
+msgstr "A"
+
+#: ../blog-timeline.php:146 ../single.php:181
+#: ../parts/blogloop-bothsidebar.php:163 ../parts/blogloop-search.php:21
+#: ../parts/blogloop-type2.php:186 ../parts/blogloop.php:167
+msgid "by"
+msgstr "Por"
+
+#: ../blog-timeline.php:185 ../vc_templates/post_block/_item.php:24
+msgid "No Comments"
+msgstr "Sem comentários"
+
+#: ../blog-timeline.php:185 ../vc_templates/post_block/_item.php:26
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: ../blog-timeline.php:185 ../vc_templates/post_block/_item.php:28
+msgid "% Comments"
+msgstr "% Observações"
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Este post está protegido por senha. Digite a senha para ver os comentários."
+
+#: ../comments.php:21
+msgid "Comments"
+msgstr "Observações"
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: ../commentsfunc.php:9
+msgid "Says"
+msgstr "Diz"
+
+#: ../commentsfunc.php:15
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário está aguardando moderação."
+
+#: ../contact.php:48
+msgid "Contact Information:"
+msgstr "Informações de contato:"
+
+#: ../contact.php:50
+msgid "Address"
+msgstr "Endereço"
+
+#: ../contact.php:54
+msgid "Phone"
+msgstr "Telefone"
+
+#: ../contact.php:59 ../contact.php:81
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../contact.php:77
+msgid "What's your Name?"
+msgstr "Qual é o seu nome?"
+
+#: ../contact.php:78
+msgid "Name"
+msgstr "Nome"
+
+#: ../contact.php:79
+msgid "What's your Email?"
+msgstr "Qual é o seu e-mail?"
+
+#: ../contact.php:82
+msgid "Email Subject?"
+msgstr "Assunto do e-mail?"
+
+#: ../contact.php:83
+msgid "Subject ?"
+msgstr "Assunto ?"
+
+#: ../contact.php:85
+msgid "Message to us"
+msgstr "Mensagem para nós"
+
+#: ../contact.php:87 ../inc/widgets/contactform.php:75
+msgid "Send Message"
+msgstr "Enviar uma mensagem"
+
+#: ../functions.php:198
+msgid "Header Menu"
+msgstr "menu de topbar"
+
+#: ../functions.php:199
+msgid "Footer Menu"
+msgstr "Menu Rodapé"
+
+#: ../functions.php:200
+msgid "Topbar Menu"
+msgstr "Cardápio de Topbar"
+
+#: ../functions.php:201
+msgid "Left-Nav Menu"
+msgstr "Cardápio de Left-Nav"
+
+#: ../functions.php:585
+msgid "Webnus Theme Option"
+msgstr "Opção Webnus Tema"
+
+#: ../functions.php:634
+msgid "Gallery Type"
+msgstr "Tipo Galeria"
+
+#: ../header-404.php:40 ../header-dark.php:46 ../header.php:46
+msgid "Page"
+msgstr "Página"
+
+#: ../search.php:20
+msgid "Search Results for"
+msgstr "Resultados da busca por"
+
+#: ../searchform.php:3
+msgid "Enter Keywords..."
+msgstr "Digite palavras-chave"
+
+#: ../single.php:190 ../parts/blogloop-bothsidebar.php:166
+#: ../parts/blogloop-search.php:24 ../parts/blogloop-type2.php:189
+#: ../parts/blogloop.php:170
+msgid "in"
+msgstr "Em"
+
+#: ../single.php:217
+msgid "Next Page"
+msgstr "Próxima Página"
+
+#: ../single.php:218
+msgid "Previous Page"
+msgstr "Página Anterior"
+
+#: ../inc/contactus/contact2.php:19
+msgid "Text could not be empty..."
+msgstr "Texto não pode ser vazio …"
+
+#: ../inc/contactus/contact2.php:20
+msgid "Invalid email address..."
+msgstr "Endereço de e-mail inválido ..."
+
+#: ../inc/widgets/contactform.php:72
+msgid "Your Name"
+msgstr "Seu nome"
+
+#: ../inc/widgets/contactform.php:73
+msgid "Your Email Address"
+msgstr "O seu endereço de e-mail"
+
+#: ../inc/widgets/contactform.php:74
+msgid "Your Message"
+msgstr "A sua mensagem"
+
+#: ../inc/widgets/instagram.php:105
+msgid "An error has occoured..."
+msgstr "Ocorreu um erro …"
+
+#: ../inc/widgets/woocommerce-header-cart.php:8
+msgid "Woocommerce Header Cart"
+msgstr "Woocommerce cabeçalho carrinho"
+
+#: ../inc/widgets/woocommerce-header-cart.php:61
+msgid "No products in the cart."
+msgstr "Não há produtos no carrinho de compras."
+
+#: ../inc/widgets/woocommerce-header-cart.php:70
+msgid "Cart"
+msgstr "carrinho de compras"
+
+#: ../inc/widgets/woocommerce-header-cart.php:72
+msgid "Total"
+msgstr "Total"
+
+#: ../js/dynjs.php:18
+msgid "Well done!"
+msgstr "Bem feito!"
+
+#: ../js/dynjs.php:18 ../js/dynjs.php:20
+msgid "Your message has been sent."
+msgstr "A sua mensagem foi enviada."
+
+#: ../js/dynjs.php:24
+msgid "Error!"
+msgstr "Erro!"
+
+#: ../js/dynjs.php:24
+msgid "Something Wrong"
+msgstr "Algo de Errado"
+
+#: ../parts/blogloop-none.php:2
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não consegue encontrar o que você está procurando. Talvez a "
+"pesquisa pode ajudar."
+
+#: ../parts/header2.php:103
+msgid "Search..."
+msgstr "Pesquisar"
+
+#: ../vc_templates/vc_posts_grid.php:133
+#: ../vc_templates/vc_teaser_grid.php:321
+msgid "All"
+msgstr "Todos"
+
+#: ../vc_templates/vc_posts_grid.php:161
+#: ../vc_templates/vc_posts_slider.php:193
+#: ../vc_templates/vc_teaser_grid.php:333
+msgid "Nothing found."
+msgstr "Nada encontrado."
+
+#: ../vc_templates/vc_teaser_grid.php:182
+#: ../vc_templates/post_block/_item.php:44
+msgid "Read more"
+msgstr "Leia mais"
+
+#: ../vc_templates/post_block/_item.php:44
+msgid "Permalink to"
+msgstr "Permalink a"

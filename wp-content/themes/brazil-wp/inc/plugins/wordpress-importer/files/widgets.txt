@@ -1,0 +1,75 @@
+widget_archives+++
+a:3:{i:2;a:3:{s:5:"title";s:0:"";s:5:"count";i:0;s:8:"dropdown";i:0;}i:3;a:3:{s:5:"title";s:0:"";s:5:"count";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_calendar+++
+a:2:{i:1;a:1:{s:5:"title";s:8:"Calendar";}s:12:"_multiwidget";i:1;}
+-------
+widget_categories+++
+a:4:{i:2;a:4:{s:5:"title";s:0:"";s:5:"count";i:0;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}i:3;a:4:{s:5:"title";s:0:"";s:5:"count";i:0;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}i:4;a:4:{s:5:"title";s:0:"";s:5:"count";i:1;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_meta+++
+a:2:{i:3;a:1:{s:5:"title";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_recent-comments+++
+a:2:{i:3;a:2:{s:5:"title";s:0:"";s:6:"number";i:5;}s:12:"_multiwidget";i:1;}
+-------
+widget_recent-posts+++
+a:3:{i:3;a:2:{s:5:"title";s:0:"";s:6:"number";i:5;}i:6;a:3:{s:5:"title";s:0:"";s:6:"number";i:5;s:9:"show_date";b:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_rss+++
+a:0:{}
+-------
+widget_search+++
+a:4:{i:2;a:1:{s:5:"title";s:0:"";}i:3;a:1:{s:5:"title";s:0:"";}i:4;a:1:{s:5:"title";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_tag_cloud+++
+a:3:{i:1;a:2:{s:5:"title";s:9:"Tag Cloud";s:8:"taxonomy";s:8:"post_tag";}i:2;a:2:{s:5:"title";s:0:"";s:8:"taxonomy";s:8:"post_tag";}s:12:"_multiwidget";i:1;}
+-------
+widget_text+++
+a:3:{i:4;a:3:{s:5:"title";s:19:"Contact Information";s:4:"text";s:139:"10044 West 23th Street, Suite 721
+New York NY 10010
+Email: youremail@yourdomain.com
+Phone: +1 (0) 101 0000 000
+Fax: +1 (0) 202 0000 001";s:6:"filter";b:1;}i:5;a:3:{s:5:"title";s:8:"About Us";s:4:"text";s:262:"Brazil – Beyond the Limits is a clean minimalistic theme that brings all the features that you are expecting from us like our other themes. It comes with a bunch of features to make your website incredible flexible so you can make every page unique if you want";s:6:"filter";b:1;}s:12:"_multiwidget";i:1;}
+-------
+widget_webnusadvertisementwidget+++
+a:3:{i:2;a:4:{s:5:"title";s:0:"";s:4:"link";s:15:"http://fifa.com";s:8:"imageurl";s:44:"http://webnus.biz/tfprewpics/brazilads02.jpg";s:12:"html_content";s:0:"";}i:3;a:4:{s:5:"title";s:3:"Ads";s:4:"link";s:34:"http://themeforest.net/user/WEBNUS";s:8:"imageurl";s:43:"http://webnus.biz/tfprewpics/336x280_V2.jpg";s:12:"html_content";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnuscontactform+++
+a:2:{i:2;a:2:{s:5:"title";s:12:"Contact Form";s:5:"email";s:20:"support@yoursite.com";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnusinstagramwidget+++
+a:3:{i:1;a:3:{s:5:"title";s:9:"instagram";s:8:"username";s:6:"envato";s:5:"count";s:2:"12";}i:2;a:3:{s:5:"title";s:9:"Instagram";s:8:"username";s:12:"insideenvato";s:5:"count";s:1:"8";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnuspostsliderwidget+++
+a:2:{i:1;a:2:{s:5:"title";s:11:"post slider";s:5:"count";s:1:"3";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnussocialwidget+++
+a:2:{i:3;a:18:{s:5:"title";s:0:"";s:12:"twitter_link";s:1:"#";s:13:"facebook_link";s:1:"#";s:12:"youtube_link";s:1:"#";s:13:"linkedin_link";s:1:"#";s:13:"dribbble_link";s:1:"#";s:14:"pinterest_link";s:0:"";s:10:"vimeo_link";s:1:"#";s:10:"gplus_link";s:0:"";s:8:"rss_link";s:0:"";s:14:"instagram_link";s:1:"#";s:11:"flickr_link";s:0:"";s:11:"reddit_link";s:0:"";s:11:"lastfm_link";s:0:"";s:14:"delicious_link";s:0:"";s:11:"tumblr_link";s:0:"";s:10:"skype_link";s:0:"";s:12:"picassa_link";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_latestposts+++
+a:3:{i:1;a:2:{s:5:"title";s:12:"Recent Posts";s:13:"numberOfPosts";s:1:"3";}i:2;a:2:{s:5:"title";s:12:"Recent Posts";s:13:"numberOfPosts";s:1:"4";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_popularposts+++
+a:2:{i:2;a:2:{s:5:"title";s:13:"Popular Posts";s:13:"numberOfPosts";s:1:"4";}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce-header-cart+++
+a:2:{i:2;a:0:{}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_price_filter+++
+a:2:{i:1;a:1:{s:5:"title";s:15:"Filter by price";}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_products+++
+a:2:{i:1;a:7:{s:5:"title";s:8:"Products";s:6:"number";s:1:"5";s:4:"show";s:0:"";s:7:"orderby";s:4:"date";s:5:"order";s:4:"desc";s:9:"hide_free";i:0;s:11:"show_hidden";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_product_categories+++
+a:2:{i:1;a:6:{s:5:"title";s:18:"Product Categories";s:7:"orderby";s:4:"name";s:8:"dropdown";i:0;s:5:"count";i:0;s:12:"hierarchical";s:1:"1";s:18:"show_children_only";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_widget_cart+++
+a:2:{i:1;a:2:{s:5:"title";s:4:"Cart";s:13:"hide_if_empty";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_ydisclaimer+++
+a:1:{s:12:"_multiwidget";i:1;}
+-------
+widget_yflickr+++
+a:2:{i:1;a:2:{s:5:"title";s:6:"flickr";s:6:"flickr";s:156:"<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=12&display=random&size=s&layout=x&source=user&user=23183960@N00"></script>";}s:12:"_multiwidget";i:1;}

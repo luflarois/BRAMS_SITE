@@ -1,0 +1,38 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Add From Server"
+msgstr ""
+
+#. Short description.
+msgid "&quot;Add From Server&quot; is a quick plugin which allows you to import media &amp; files into the WordPress uploads manager from the Webservers file"
+msgstr ""
+
+#. Screenshot description.
+msgid "The import manager, This allows you to select which files to import. Note that files which cannot be imported are Red."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Options panel, This allows you to specify what users can access Add From Server, and which folders users can import files from."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix plugin activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The plugin now requires WordPress 4.0 and PHP 5.4 as a minumum requirement."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to use WordPress.org translation system, please submit translations through https://translate.wordpress.org/projects/wp-plugins/add-from-server/stable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to WordPress 4.3 styles"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "FAQ"
+msgstr ""
