@@ -95,7 +95,7 @@ if(is_admin())
 			$subsets = '';
 			$fontExplode = explode(":", $_POST["font"]);
 			//get google fonts
-			$google_api_url = 'https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyB4_VClnbxilxqjZd7NbysoHwAXX1ZGdKQ';
+			$google_api_url = 'https://www.googleapis.com/webfonts/v1/webfonts?key='; //API_1
 			$fontsJson = wp_remote_retrieve_body(wp_remote_get($google_api_url, array('sslverify' => false )));
 			$fontsArray = json_decode($fontsJson);
 			$fontsCount = count($fontsArray->items);
@@ -519,11 +519,11 @@ if(is_admin())
 			<br />
 			<label>tooltip: </label><input class='css3_grid_tooltip_input' type='text' name='tooltips[]' value='' />";
 		//get google fonts
-		$google_api_url = 'https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyB4_VClnbxilxqjZd7NbysoHwAXX1ZGdKQ';
+		$google_api_url = 'https://www.googleapis.com/webfonts/v1/webfonts?key='; //API_1
 		$fontsJson = @wp_remote_retrieve_body(wp_remote_get($google_api_url, array('sslverify' => false )));
 		$fontsArray = json_decode($fontsJson);
 
-		//$fontsJson = file_get_contents('https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyB4_VClnbxilxqjZd7NbysoHwAXX1ZGdKQ');
+		//$fontsJson = file_get_contents('https://www.googleapis.com/webfonts/v1/webfonts?key='); //API_1
 		//$fontsArray = json_decode($fontsJson);
 		
 		$fontsHtml = "";

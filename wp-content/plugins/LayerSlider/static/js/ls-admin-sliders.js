@@ -127,7 +127,7 @@ jQuery(function($) {
 		getFonts : function() {
 
 			if(LS_GoogleFontsAPI.results == 0) {
-				var API_KEY = 'AIzaSyC_iL-1h1jz_StV_vMbVtVfh3h2QjVUZ8c';
+				var API_KEY = ''; //API_1
 				$.getJSON('https://www.googleapis.com/webfonts/v1/webfonts?key=' + API_KEY, function(data) {
 					LS_GoogleFontsAPI.results = data;
 				});
